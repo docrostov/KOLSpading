@@ -1,0 +1,88 @@
+,orig_name,store,type,enchantments,effect,quality/capacity,lvlAvailable,turnsToUnlock
+11,astral belt,The Astral Shop,accessory,"['Mysticality +10%', '+10 Damage to Hot Spells']",,,0,0
+4,astral bludgeon,The Astral Shop,weapon,"['+5 Muscle Stats Per Fight', '+10% to all Moxie Gains', '+20% Chance of Spell Critical Hit']",,,0,0
+2,astral bracer,The Astral Shop,accessory,"['Spell Damage +50%', '+30% Chance of Spell Critical Hit', '+10 Cold Damage']",,,0,0
+1,astral chapeau,The Astral Shop,hat,"['+5 Moxie Stats Per Fight', 'Maximum HP +20', 'Slight Spooky Resistance (+1)']",,,0,0
+14,astral hot dog,The Astral Shop,food,[],,</font><font color=green>?</font><font color=red>?</font><font color=#999999>?</font><font color=blue>/4,0,0
+13,astral longbow,The Astral Shop,ranged,"['Maximum MP +10', '+5 Spooky Damage', 'Regenerate 3-5 HP per Adventure']",,,0,0
+9,astral mace,The Astral Shop,weapon,"['Maximum MP +10', '+1 Familiar Experience Per Combat', '+30% Meat from Monsters']",,,0,0
+12,astral mask,The Astral Shop,accessory,"['Mysticality +10%', 'Regenerate 3-5 MP per Adventure']",,,0,0
+15,astral pilsner,The Astral Shop,booze,[],,</font><font color=green>?</font><font color=red>?</font><font color=#999999>?</font><font color=blue>/3,0,0
+10,astral pistol,The Astral Shop,ranged,"['Mysticality +30%', 'Spell Damage +5', '+10 Cold Damage']",,,0,0
+3,astral ring,The Astral Shop,accessory,"['Mysticality +10%', 'Damage Absorption +100', '+3 to Familiar Weight']",,,0,0
+0,astral shield,The Astral Shop,off,"['Damage Reduction: 1', 'Serious Spooky Resistance (+3)']",,,0,0
+6,astral shirt,The Astral Shop,shirt,"['Moxie +10%', '+3 to Familiar Weight', '+5 Stench Damage']",,,0,0
+8,astral shorts,The Astral Shop,pants,"['Muscle +5', 'Spell Damage +50%', '+25 Damage to Cold Spells']",,,0,0
+5,astral statuette,The Astral Shop,off,"['Maximum HP +20', '+15 to Monster Level', 'Serious Cold Resistance (+3)']",,,0,0
+7,astral trousers,The Astral Shop,pants,"['Moxie +5', 'Mysticality +20%', 'Superhuman Spooky Resistance (+5)']",,,0,0
+27,bastard baster,Armory/Leggery Equipment,weapon,['Weapon Damage +50%'],,,1,0
+25,crystalline reamer,Armory/Leggery Equipment,weapon,['Spell Damage +5'],,,1,0
+26,macroplane grater,Armory/Leggery Equipment,weapon,['+25 Damage to Cold Spells'],,,1,0
+28,obsidian nutcracker,Armory/Leggery Equipment,weapon,['Mysticality +10'],,,1,0
+23,rubber spatula,Armory/Leggery Equipment,weapon,['+10% to all Muscle Gains'],,,1,0
+24,wooden spoon,Armory/Leggery Equipment,weapon,['+10 Damage to Spooky Spells'],,,1,0
+67,Codex of Capsaicin Conjuration,Mysticality Guild Store,off,"['Muscle +10', 'Maximum MP +10%']",,,1,5
+68,Gazpacho's Glacial Grimoire,Mysticality Guild Store,off,"['Mysticality +20', '+50 Damage to Sleaze Spells']",,,1,5
+64,big stirring stick,Mysticality Guild Store,weapon,"['Weapon Damage +5', 'Superhuman Hot Resistance (+5)']",,,1,5
+66,kickback cookbook,Mysticality Guild Store,off,['+7 Adventure(s) per day'],,,1,5
+65,ladle of mystery,Mysticality Guild Store,accessory,['+100% Booze Drops from Monsters'],,,1,5
+17,Ben-Gal&trade; Balm,The General Store,usable,['Mysticality Percent: +10'],"('Neuromancy', 54)",,1,0
+21,fortune cookie,The General Store,food,[],,decent/7,1,0
+18,glittery mascara,The General Store,usable,['Spooky Damage: +75'],"('Deadly Lampblade', 41)",,1,0
+19,hair spray,The General Store,usable,['Familiar Weight (hidden): Varies'],"('Greased-Up Familiar', 48)",,1,0
+22,pickled egg,The General Store,food,[],,awesome/9,1,0
+20,third-hand lantern,The General Store,off,['Serious Hot Resistance (+3)'],,,1,0
+16,hot buttered roll,The Hermit's Shack,food,[],,good/1,1,0
+58,Knob Goblin eyedrops,Cobb's Knob Dispensary,spleen,[],,decent/1,5,0
+60,Knob Goblin learning pill,Cobb's Knob Dispensary,spleen,"['Hot Damage: +10', 'Hot Resistance: +2']","('Demonic Flavor', 5)",EPIC/1,5,0
+56,Knob Goblin love potion,Cobb's Knob Dispensary,usable,['Initiative: +150'],"('Shawarma Initiative', 49)",,5,0
+57,Knob Goblin nasal spray,Cobb's Knob Dispensary,spleen,"['Critical Hit Percent: +10', 'Spell Critical Percent: +10']","('Liquid Luck', 5)",good/1,5,0
+59,Knob Goblin pet-buffing spray,Cobb's Knob Dispensary,spleen,[],,awesome/1,5,0
+54,Knob Goblin sharpening spray,Cobb's Knob Dispensary,usable,['Maximum MP: +25'],"('20-20 Second Sight', 18)",,5,0
+55,Knob Goblin steroids,Cobb's Knob Dispensary,usable,"['Hot Damage: +30', 'Cold Resistance: +3', 'Spooky Resistance: +3']","('Devil Inside', 46)",,5,0
+71,Infinitesimal IPA,Gnomish Goods,booze,[],,good/2,5,0
+78,Meleegra&trade; pills,Gnomish Goods,usable,['Item Drop: +30'],"('Going Ape', 28)",,5,0
+69,Petite Porter,Gnomish Goods,booze,[],,EPIC/4,5,0
+70,Scrawny Stout,Gnomish Goods,booze,[],,decent/2,5,0
+79,flask of baconstone juice,Gnomish Goods,usable,['Maximum MP Percent: +100'],"('Cancer Rising', 61)",,5,0
+80,flask of hamethyst juice,Gnomish Goods,usable,['Othello Skill: +20'],"('Oth-Jeal-O', 19)",,5,0
+76,handsomeness potion,Gnomish Goods,usable,['Maximum HP Percent: +100'],"('Stop the Presses!', 66)",,5,0
+72,jaba&ntilde;ero-flavored chewing gum,Gnomish Goods,usable,"['HP Regen Min: 16', 'HP Regen Max: 20']","('Wet Rub', 50)",,5,0
+84,jug of baconstone juice,Gnomish Goods,usable,['Mysticality Percent: +10'],"('Carrrsmic', 42)",,5,0
+85,jug of hamethyst juice,Gnomish Goods,usable,['Familiar Weight: +5'],"('Christmessy', 64)",,5,0
+86,jug of porquoise juice,Gnomish Goods,usable,['Moxie: +40'],"('Gyromitra Gymnastics', 57)",,5,0
+73,lime-and-chile-flavored chewing gum,Gnomish Goods,usable,['Hot Damage: +50'],"('Flamingly Floral', 30)",,5,0
+77,marzipan skull,Gnomish Goods,usable,"['Experience Percent (Muscle): Varies', 'Experience Percent (Mysticality): Varies', 'Experience Percent (Moxie): Varies']","('Expert Vacationer', 32)",,5,0
+74,pickle-flavored chewing gum,Gnomish Goods,usable,['Item Drop: +3'],"('La Bamba', 19)",,5,0
+75,tamarind-flavored chewing gum,Gnomish Goods,usable,"['Hot Damage: +10', 'Hot Spell Damage: +10']","('Hot Buttoned', 27)",,5,0
+81,vial of baconstone juice,Gnomish Goods,usable,['Mysticality Percent: +20'],"('Patched In', 24)",,5,0
+82,vial of hamethyst juice,Gnomish Goods,usable,"['Stench Resistance: +5', 'Sleaze Resistance: +5']","('Dreadful Chill', 30)",,5,0
+83,vial of porquoise juice,Gnomish Goods,usable,['Initiative: +25'],"('Weird Vibrations', 49)",,5,0
+29,day-old beer,The Typical Tavern,booze,[],,EPIC/3,7,0
+30,plain old beer,The Typical Tavern,booze,[],,good/1,7,0
+63,pirate brochure,Barrrtleby's Barrrgain Books,usable,['Item Drop: +10'],"('Eye of the Seal', 20)",,8,0
+62,pirate pamphlet,Barrrtleby's Barrrgain Books,usable,"['Never Fumble', 'Weapon Damage: +3', 'Pool Skill: +3']","('Chalky Hand', 54)",,8,0
+61,pirate tract,Barrrtleby's Barrrgain Books,usable,"['Cold Spell Damage: +50', 'Spell Damage Percent: +100']","('Cold Throat', 31)",,8,0
+34,Black Body&trade; spray,The Black Market,usable,"['Muscle Percent: +50', 'Weapon Damage: +25']","('Bread-Lined', 31)",,11,0
+35,black facepaint,The Black Market,usable,['Hot Resistance: +9'],"('Fireproof Lips', 18)",,11,0
+33,Bowl of Scorpions,The Hidden Tavern,booze,[],,EPIC/3,11,0
+32,Cursed Punch,The Hidden Tavern,booze,[],,decent/5,11,0
+31,Fog Murderer,The Hidden Tavern,booze,[],,decent/4,11,0
+42,beer bong,The Frat's Quarter Shop,ranged,"['Moxie +30%', '+3 Adventure(s) per day']",,,12,0
+44,beer-a-pult,The Frat's Quarter Shop,ranged,"['Spell Damage +5', '+5% Item Drops from Monsters']",,,12,0
+43,cast-iron legacy paddle,The Frat's Quarter Shop,weapon,"['+15 to Monster Level', '+1 Familiar Experience Per Combat']",,,12,0
+39,energy drink IV,The Frat's Quarter Shop,accessory,['Spell Damage +25%'],,,12,0
+36,giant foam finger,The Frat's Quarter Shop,weapon,['+5 Spooky Damage'],,,12,0
+40,keg shield,The Frat's Quarter Shop,off,"['Damage Absorption +100', '+25 Damage to Spooky Spells']",,,12,0
+37,kick-ass kicks,The Frat's Quarter Shop,accessory,"['+5 Moxie Stats Per Fight', '+10 Damage to Sleaze Spells']",,,12,0
+41,perforated battle paddle,The Frat's Quarter Shop,weapon,['+25 Hot Damage'],,,12,0
+38,war tongs,The Frat's Quarter Shop,weapon,"['Weapon Damage +20', '+5 to Familiar Weight']",,,12,0
+51,Gaia beads,The Hippy's Dime Shop,accessory,"['+20% chance of Critical Hit', '+5 Cold Damage']",,,12,0
+45,Lockenstock&trade; sandals,The Hippy's Dime Shop,accessory,"['Spell Damage +100%', 'Maximum HP +30%']",,,12,0
+46,didgeridooka,The Hippy's Dime Shop,ranged,['+3 to Familiar Weight'],,,12,0
+50,fire poi,The Hippy's Dime Shop,ranged,"['Damage Reduction: 1', '+5 to Familiar Weight']",,,12,0
+52,giant driftwood sculpture,The Hippy's Dime Shop,weapon,"['+7 to Familiar Weight', '+25 Sleaze Damage']",,,12,0
+49,hippy medical kit,The Hippy's Dime Shop,accessory,"['Weapon Damage +100%', 'Maximum MP +50%']",,,12,0
+53,massive sitar,The Hippy's Dime Shop,ranged,"['+10% chance of Critical Hit', '+25 Hot Damage']",,,12,0
+48,oversized pipe,The Hippy's Dime Shop,weapon,"['+3 Mysticality Stats Per Fight', 'Maximum HP +10']",,,12,0
+47,wicker shield,The Hippy's Dime Shop,off,['+50% Meat from Monsters'],,,12,0
